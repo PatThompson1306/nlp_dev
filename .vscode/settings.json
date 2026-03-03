@@ -1,0 +1,6 @@
+{
+  "notebook.cellEditorOptionsCustomizations": {
+    "editor.wordWrap": "on"
+  },
+  "notebook.output.wordWrap": true
+}
