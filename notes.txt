@@ -1,0 +1,7 @@
+The NLP task for the dcotorate is essentially a classification task.
+
+The task is seeking to identify signifiers of impending CSAE offending.
+
+This will need labelled data
+
+A pretrained transformer, fine tuned on my dataset may e able to achieve this
